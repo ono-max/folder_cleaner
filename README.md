@@ -8,7 +8,8 @@ This is the cleaner application for complex folders.
 
 ## Description
 
-This is created for distribution so that normal user can use. Thus, I used "pyinstaller".
+This is created for distribution so that normal user can use. This application allows user to select specific folder such that month and days. This application allows user to create folder for saving in folder that you select.
+
 ## Demo
 
 
@@ -19,11 +20,11 @@ You have to prepare the environment of Python3.
 
 ## Usage
 
-After installing all files, type "python3 project.py" in terminal.
+If you want to use application as a distribution, you can use pyinstaller.
 
 ## Install(terminal)
 
-git clone https://github.com/ono-max/AdventureGame.git
+git clone https://github.com/ono-max/folder_cleaner.git
 
 ## Contribution
 
