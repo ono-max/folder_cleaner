@@ -1,6 +1,6 @@
 Name
 ====
-フォルダースッキリ君(Folder Cleaner
+フォルダースッキリ君(Folder Cleaner)
 
 Overview
 
