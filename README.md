@@ -4,12 +4,11 @@ Name
 
 Overview
 
-This is a retro game which consists of sentences. The story is based on "Momotaro"(Japanese traditional story).
+This is the cleaner application for complex folders.
 
 ## Description
 
-This is written in Python3(Library is not created in this coding). It's easy for even beginners to make sense the meaning of code. You can feel free to enjoy making Adventure Game.
-
+This is created for distribution so that normal user can use. Thus, I used "pyinstaller".
 ## Demo
 
 
